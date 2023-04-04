@@ -20,3 +20,4 @@ if(idade <=12){
 let usuario="admin"
 let senha=1234
 let enter_user = prompt("Qual o seu usuario? ")
+let enter_senha = prompt("Qual sua senha? ")
