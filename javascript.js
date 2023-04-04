@@ -21,3 +21,8 @@ let usuario="admin"
 let senha=1234
 let enter_user = prompt("Qual o seu usuario? ")
 let enter_senha = prompt("Qual sua senha? ")
+if (enter_user == usuario && enter_senha == senha){
+    document.write("Login realizado com sucesso!")
+}else{
+    document.write("Falha na tentativa de login")
+}
