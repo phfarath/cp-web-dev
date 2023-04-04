@@ -6,7 +6,7 @@ if (resto==1){
 }else{
     document.write("<br>Ou seja, o numero que voce escolheu é par")
 }
-let idade = prompt("Qauntos anos voce tem: ")
+let idade = prompt("Quantos anos voce tem: ")
 document.write("<br>A sua idade é: ", idade)
 if(idade <=12){
     document.write("<br>Voce é uma crianca")
@@ -18,3 +18,5 @@ if(idade <=12){
     document.write("<br>Voce é um idoso")
 }
 let usuario="admin"
+let senha=1234
+let enter_user = prompt("Qual o seu usuario? ")
