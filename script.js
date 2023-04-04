@@ -6,5 +6,4 @@ document.write("O seu nome é: ", seunome)
 document.write("<br>A sua idade é: ", suaidade)
 document.write("<br>O seu curso é: ", curso)
 document.write("<br>O ano atual é: ", ano)
-let varString = "2048"
-console.log(parseFloat(varString))
+

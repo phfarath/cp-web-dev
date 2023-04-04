@@ -1,4 +1,5 @@
 let numero = prompt("digite um numero: ")
+console.log(parseInt(numero))
 let resto= numero % 2
 document.write("<br>O resto da divisao entre seu numero e 2: ", resto)
 if (resto==1){
